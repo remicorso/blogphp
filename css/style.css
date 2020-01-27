@@ -1,0 +1,106 @@
+body {
+    background: url('../img/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    color: #e7e7e7 !important;
+}
+
+main {
+    min-height: 80vh;
+}
+
+.logo {
+    height: 3.5rem;
+}
+
+hr {
+    border: none;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.jumbo {
+    min-height: 400px;
+    max-height: 400px;
+}
+
+.single-result-admin {
+    box-shadow: 0 0 10px #2b2b2b;
+    border: 1px solid #b14848;
+}
+
+.single-result-admin:hover {
+    background-color: #252525;
+}
+
+.col-md-6 {
+    max-width: 49.5%;
+}
+
+
+.col-lg-3 {
+    max-width: 24.5%;
+}
+
+.col-md-3 {
+    max-width: 24.5%;
+}
+
+.users-single-avatar {
+    min-width: 50px;
+    max-width: 100px;
+    min-height: 50px;
+    max-height: 100px;
+}
+
+header nav {
+    background-color: #2b2b2b;
+}
+
+.footer-copyright {
+    background-color: #000000 !important;
+    color: #e7e7e7 !important;
+}
+
+footer {
+    background-color: transparent;
+}
+
+.page-footer {
+    background-color: #353535b2 !important;
+}
+
+.page-footer a {
+    color: #fff !important;
+}
+
+.title-block {
+    background-color: #2b2b2b;
+}
+
+.card {
+    background-color: #2b2b2be3 !important;
+}
+
+.card .card-body .card-text {
+    color: #e7e7e7 !important;
+}
+
+.pagination .page-item .page-link {
+    color: #e7e7e7 !important;
+}
+
+.pagination.pg-blue .page-item.active .page-link,
+.pagination.pg-blue .page-item.active .page-link:hover {
+    background-color: #7e1d1d !important;
+}
+
+.pagination.pg-blue .page-link:hover {
+    background-color: #7e1d1d !important;
+}
+
+
+#last_user .col-md-4 {
+    max-width: 32% !important;
+}
